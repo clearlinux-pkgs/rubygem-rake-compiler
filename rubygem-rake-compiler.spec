@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rake-compiler
 Version  : 0.9.5
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/rake-compiler-0.9.5.gem
 Source0  : https://rubygems.org/downloads/rake-compiler-0.9.5.gem
 Summary  : No detailed summary available
